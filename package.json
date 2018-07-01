@@ -1,0 +1,19 @@
+{
+  "name": "songbeetle",
+  "version": "0.1.0",
+  "description": "SongBeetle music server",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriankalicki/songbeetle.git"
+  },
+  "author": "adriankalicki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriankalicki/songbeetle/issues"
+  },
+  "homepage": "https://github.com/adriankalicki/songbeetle#readme"
+}
