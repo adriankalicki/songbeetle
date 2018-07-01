@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/adriankalicki/songbeetle/issues"
   },
-  "homepage": "https://github.com/adriankalicki/songbeetle#readme"
+  "homepage": "https://github.com/adriankalicki/songbeetle#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
 }
